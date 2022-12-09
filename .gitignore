@@ -1,0 +1,11 @@
+# binary files
+*.o
+
+# vim temporary files
+.*.swp
+
+# cscope files
+cscope.*
+
+# ctags
+tags
